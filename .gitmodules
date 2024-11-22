@@ -1,0 +1,3 @@
+[submodule "ssrf-test"]
+	path = ssrf-test
+	url = https://github.com/hughdavenport/ssrf-test
